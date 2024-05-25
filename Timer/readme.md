@@ -1,4 +1,4 @@
-# First Assignment 
+# Second Assignment 
 
 Create an android Countdown Timer App. 
 
